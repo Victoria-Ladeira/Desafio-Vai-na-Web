@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Inter", sans-serif;
+}
+
 .inicio {
   padding-left: 100px;
   margin-top: 100px;
@@ -37,10 +41,9 @@ img {
 
 h1 {
   color: rgb(245, 135, 221);
-  font-weight: 700px;
+  font-weight: 700;
   line-height: 43.57px;
   font-size: 36px;
-  padding-left: 0px;
   padding-bottom: 15px;
   padding-top: 25px;
   padding-right: 25px;
@@ -48,10 +51,9 @@ h1 {
 
 p {
   color: rgb(0, 0, 0);
-  font-weight: 400px;
+  font-weight: 400;
   line-height: 29.05px;
   font-size: 24px;
-  padding-left: 0px;
   padding-top: 10px;
   padding-bottom: 20px;
   padding-right: 20px;
@@ -60,7 +62,7 @@ p {
 
 a {
   color: rgb(0, 0, 0);
-  font-weight: 400px;
+  font-weight: 400;
   line-height: 29.05px;
   font-size: 24px;
   list-style: 1440px, 167px, 620px;
@@ -68,7 +70,6 @@ a {
   width: 324.1px;
   top: 562.56px;
   left: 120px;
-  padding-left: 0px;
   padding-top: 10px;
   padding-bottom: 20px;
   padding-right: 20px;
@@ -76,11 +77,10 @@ a {
 
 .series {
   color: rgb(245, 135, 221);
-  font-weight: 700px;
+  font-weight: 700;
   line-height: 43.57px;
   font-size: 36px;
   padding-top: 5px;
-  padding-left: 0px;
   padding-bottom: 3px;
   padding-right: 5px;
 }
@@ -97,11 +97,10 @@ ol {
 
 .musicas {
   color: rgb(245, 135, 221);
-  font-weight: 700px;
+  font-weight: 700;
   line-height: 43.57px;
   font-size: 36px;
   padding-top: 5px;
-  padding-left: 0px;
   padding-bottom: 3px;
   padding-right: 5px;
 }
@@ -124,8 +123,8 @@ footer {
 
 h3 {
   color: rgb(0, 0, 0);
-  font-weight: 700px;
+  font-weight: 700;
   line-height: 16.94px;
   font-size: 14px;
-  padding-left: 850px;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
